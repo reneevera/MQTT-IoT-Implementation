@@ -1,0 +1,1 @@
+#The project involves developing an IoT solution using the MQTT protocol to meet client needs. It features publisher clients sending data to a broker and subscriber clients receiving data from the broker
