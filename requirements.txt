@@ -1,0 +1,4 @@
+# paho-mqtt 1.6.1 is the last 1.x release. These scripts call mqtt.Client()
+# with the 1.x callback style. paho-mqtt 2.0.0 requires callback_api_version
+# and fails on that call. 2.1.0 accepts it again, with a deprecation warning.
+paho-mqtt>=1.6.1,<2
